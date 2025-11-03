@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CoderFile.io Blog</title>
+    <link>https://coderfile.io/blog</link>
+    <description>Latest articles on coding, development, collaboration, and online code editors</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://coderfile.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Online Coding Interviews: Best Practices for 2025</title>
+      <link>https://coderfile.io/blog/online-coding-interviews-best-practices</link>
+      <guid>https://coderfile.io/blog/online-coding-interviews-best-practices</guid>
+      <description>Comprehensive guide to conducting effective online coding interviews with best practices, common mistakes to avoid, and tips for both interviewers and candidates.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Real-Time Pair Programming: The Complete Guide</title>
+      <link>https://coderfile.io/blog/real-time-pair-programming-guide</link>
+      <guid>https://coderfile.io/blog/real-time-pair-programming-guide</guid>
+      <description>Learn how to effectively collaborate with real-time pair programming, including best practices, tools, and techniques for remote teams.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Teaching Programming Online: Strategies That Work</title>
+      <link>https://coderfile.io/blog/teaching-programming-online</link>
+      <guid>https://coderfile.io/blog/teaching-programming-online</guid>
+      <description>Effective strategies for teaching programming online, including tools, techniques, and best practices for remote coding education.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Code Snippet Sharing Best Practices</title>
+      <link>https://coderfile.io/blog/code-snippet-sharing-best-practices</link>
+      <guid>https://coderfile.io/blog/code-snippet-sharing-best-practices</guid>
+      <description>Learn the best practices for sharing code snippets effectively, including formatting, documentation, and choosing the right tools.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>CoderFile vs CodeShare: Feature Comparison</title>
+      <link>https://coderfile.io/blog/coderfile-vs-codeshare-comparison</link>
+      <guid>https://coderfile.io/blog/coderfile-vs-codeshare-comparison</guid>
+      <description>Detailed comparison of CoderFile.io and CodeShare.io, highlighting features, capabilities, and which platform is best for your needs.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Online IDE vs Local Development: Which to Choose?</title>
+      <link>https://coderfile.io/blog/online-ide-vs-local-development</link>
+      <guid>https://coderfile.io/blog/online-ide-vs-local-development</guid>
+      <description>Comprehensive comparison of online IDEs and local development environments, with pros, cons, and use cases for each approach.</description>
+      <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
