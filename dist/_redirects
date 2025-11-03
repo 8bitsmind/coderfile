@@ -1,0 +1,9 @@
+# Serve static files before SPA redirect
+/sitemap.xml /sitemap.xml 200
+/robots.txt /robots.txt 200
+/favicon.png /favicon.png 200
+/favicon.ico /favicon.ico 200
+/fb068aff21c24fc49d0ccc05b9169c76.txt /fb068aff21c24fc49d0ccc05b9169c76.txt 200
+
+# SPA catch-all redirect (must be last)
+/* /index.html 200
